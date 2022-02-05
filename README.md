@@ -72,6 +72,8 @@ https://github.com/emadshanab/directory-wordlists
 
 https://github.com/zapstiko/wordlists/blob/main/admin%20panel
 
+https://github.com/Proviesec/directory-payload-list
+
 
 
 
