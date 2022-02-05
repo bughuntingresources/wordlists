@@ -70,6 +70,8 @@ https://github.com/emadshanab/wordlist-1
 
 https://github.com/emadshanab/directory-wordlists
 
+https://github.com/zapstiko/wordlists/blob/main/admin%20panel
+
 
 
 
