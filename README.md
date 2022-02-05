@@ -56,6 +56,23 @@ https://github.com/kaimi-io/web-fuzz-wordlists
 
 https://github.com/clem9669/wordlists
 
+https://github.com/emadshanab/api_wordlist
+
+https://github.com/emadshanab/fuzzmost
+
+https://github.com/emadshanab/UltimateCMSWordlists
+
+https://github.com/clem9669/wordlists
+
+https://github.com/emadshanab/Huge_DIR_wordlist
+
+https://github.com/emadshanab/wordlist-1
+
+https://github.com/emadshanab/directory-wordlists
+
+
+
+
 
 
 
