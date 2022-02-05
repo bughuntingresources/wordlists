@@ -45,3 +45,33 @@ https://github.com/minimaxir/big-list-of-naughty-strings
 https://github.com/0xspade/Combined-Wordlists
 
 https://github.com/p0dalirius/webapp-wordlists
+
+https://github.com/digination/dirbuster-ng/blob/master/wordlists/spanish.txt
+
+https://github.com/bitcoin/bips/blob/master/bip-0039/spanish.txt
+
+https://github.com/utkusen/turkce-wordlist
+
+https://github.com/kaimi-io/web-fuzz-wordlists
+
+https://github.com/clem9669/wordlists
+
+
+
+
+
+
+ALL backup file wordlists :
+
+https://github.com/JackStouffer/Violent-Python/blob/master/wordlist/fuzzdb/Discovery/FilenameBruteforce/Extensions.Backup.fuzz.txt
+
+https://github.com/xajkep/wordlists/blob/master/discovery/backup_files_only.txt
+
+https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/Common-DB-Backups.txt
+
+https://github.com/aldo-moreno-leon/Wordlists-content-discovery
+
+https://github.com/Bo0oM/fuzz.txt/blob/master/fuzz.txt
+
+
+
